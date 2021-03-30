@@ -274,9 +274,5 @@ describe("squareCalcul test suite", () => {
 
       expect(b).not.toEqual(a);
     });
-
-    it("should return true", () => {
-      expect(true).toBeTruthy();
-    });
   });
 });
